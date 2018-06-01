@@ -1,0 +1,14 @@
+{
+  "name": "bedroom-controler-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alana Netto",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^5.2.0"
+  }
+}
